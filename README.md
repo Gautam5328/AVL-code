@@ -1,3 +1,1 @@
-# hello-world
-hello world project
-hi i love coding in Angular JS 
+This is a code for AVL tree in C++
